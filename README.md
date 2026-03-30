@@ -67,17 +67,18 @@
 
 ### 📊 Estatísticas
 
+### 📊 Estatísticas
 <p align="left">
-  <img 
-    alt="Github Stats" 
-    height="200px" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lipecarlostp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  &nbsp;&nbsp;
   <img 
     alt="Streak Stats" 
     height="200px" 
     src="https://streak-stats.demolab.com?user=lipecarlostp&theme=tokyonight&locale=pt_BR" 
+  />
+  &nbsp;&nbsp;
+  <img 
+    alt="Github Stats" 
+    height="200px" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lipecarlostp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
 
