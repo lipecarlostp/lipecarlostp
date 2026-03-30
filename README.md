@@ -71,13 +71,13 @@
   <img 
     alt="Github Stats" 
     height="200px" 
-    src="https://github-readme-stats.vercel.app/api?username=lipecarlostp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lipecarlostp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   &nbsp;&nbsp;
   <img 
     alt="Top Langs" 
     height="200px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipecarlostp&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lipecarlostp&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 </p>
 
