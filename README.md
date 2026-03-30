@@ -74,7 +74,7 @@
     src="https://streak-stats.demolab.com?user=lipecarlostp&theme=tokyonight&locale=pt_BR" 
   />
   &nbsp;&nbsp;
-  <br>
+  <br><br>
   <img 
     alt="Github Stats" 
     height="200px" 
