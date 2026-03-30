@@ -75,9 +75,9 @@
   />
   &nbsp;&nbsp;
   <img 
-    alt="Top Langs" 
+    alt="Streak Stats" 
     height="200px" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lipecarlostp&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+    src="https://streak-stats.demolab.com?user=lipecarlostp&theme=tokyonight&locale=pt_BR" 
   />
 </p>
 
